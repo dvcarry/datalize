@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/datalize/static/css/main.9470b418.chunk.css",
-    "main.js": "/datalize/static/js/main.102ab960.chunk.js",
-    "main.js.map": "/datalize/static/js/main.102ab960.chunk.js.map",
+    "main.js": "/datalize/static/js/main.c684f13f.chunk.js",
+    "main.js.map": "/datalize/static/js/main.c684f13f.chunk.js.map",
     "runtime-main.js": "/datalize/static/js/runtime-main.652976dd.js",
     "runtime-main.js.map": "/datalize/static/js/runtime-main.652976dd.js.map",
     "static/css/2.2b8316e7.chunk.css": "/datalize/static/css/2.2b8316e7.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.2b8316e7.chunk.css",
     "static/js/2.4b92dcec.chunk.js",
     "static/css/main.9470b418.chunk.css",
-    "static/js/main.102ab960.chunk.js"
+    "static/js/main.c684f13f.chunk.js"
   ]
 }
