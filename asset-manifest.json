@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/datalize/static/css/main.9470b418.chunk.css",
+    "main.js": "/datalize/static/js/main.665cb5b9.chunk.js",
+    "main.js.map": "/datalize/static/js/main.665cb5b9.chunk.js.map",
+    "runtime-main.js": "/datalize/static/js/runtime-main.652976dd.js",
+    "runtime-main.js.map": "/datalize/static/js/runtime-main.652976dd.js.map",
+    "static/css/2.2b8316e7.chunk.css": "/datalize/static/css/2.2b8316e7.chunk.css",
+    "static/js/2.4b92dcec.chunk.js": "/datalize/static/js/2.4b92dcec.chunk.js",
+    "static/js/2.4b92dcec.chunk.js.map": "/datalize/static/js/2.4b92dcec.chunk.js.map",
+    "index.html": "/datalize/index.html",
+    "static/css/2.2b8316e7.chunk.css.map": "/datalize/static/css/2.2b8316e7.chunk.css.map",
+    "static/css/main.9470b418.chunk.css.map": "/datalize/static/css/main.9470b418.chunk.css.map",
+    "static/js/2.4b92dcec.chunk.js.LICENSE.txt": "/datalize/static/js/2.4b92dcec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.652976dd.js",
+    "static/css/2.2b8316e7.chunk.css",
+    "static/js/2.4b92dcec.chunk.js",
+    "static/css/main.9470b418.chunk.css",
+    "static/js/main.665cb5b9.chunk.js"
+  ]
+}
